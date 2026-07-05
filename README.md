@@ -1,1 +1,1 @@
-# Statistiques-inf-rentielle-L2-level
+# Statistiques inférentielle L2 level
